@@ -36,7 +36,8 @@ The information collected is used for the following purposes:
 - Tracking user activity and engagement within the Bot.
 - Providing features such as currency systems, leveling, and item inventories.
 - Enforcing mute status as per Discord guild rules.
-
+- Providing sophisticated and well-tracked moderation tools for server moderators.
+  
 ## 3. Data Retention
 
 The collected data is retained for as long as necessary to fulfill the purposes outlined in this Privacy Policy or until you request its deletion. You may request deletion of your data by contacting the Operator.
