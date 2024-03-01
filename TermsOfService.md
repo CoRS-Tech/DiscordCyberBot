@@ -14,7 +14,7 @@ These Terms of Service ("Terms") govern your use of the Discord Bot ("CyberBot")
 
 2.1. You agree not to use the Bot for any unlawful or prohibited activities.
 
-2.2. You shall not attempt to disrupt, interfere with, or gain unauthorized access to the Bot or its associated systems.
+2.2. You shall not attempt to disrupt, interfere with, or gain unauthorised access to the Bot or its associated systems.
 
 2.3. You shall not use the Bot to distribute spam, malware, or any other harmful content described in Discord's Community Guidelines.
 
@@ -42,10 +42,10 @@ These Terms of Service ("Terms") govern your use of the Discord Bot ("CyberBot")
 
 ## 7. Governing Law
 
-7.1. These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law provisions.
+7.1. These Terms shall be governed by and construed in accordance with the laws of your local jurisdiction, without regard to its conflict of law provisions.
 
 ## 8. Contact Information
 
-8.1. If you have any questions about these Terms, please contact us at [Contact Email].
+8.1. If you have any questions about these Terms, please contact us at coroys95@gmail.com.
 
 By using the Bot, you agree to abide by these Terms of Service. If you do not agree to these Terms, please refrain from using the Bot.
