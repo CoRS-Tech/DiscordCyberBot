@@ -6,7 +6,7 @@ These Terms of Service ("Terms") govern your use of the Discord Bot ("CyberBot")
 
 1.1. The Bot is intended for use within Discord servers to provide various functionalities as described by the Operator.
 
-1.2. You must comply with Discord's Terms of Service and Community Guidelines when using the Bot.
+1.2. You must comply with Discord's Terms of Service and Community Guidelines while using the Bot.
 
 1.3. The Operator reserves the right to suspend or terminate your access to the Bot at any time, with or without cause and without notice.
 
@@ -22,13 +22,13 @@ These Terms of Service ("Terms") govern your use of the Discord Bot ("CyberBot")
 
 3.1. The Bot may collect and store user data as necessary for its operation. By using the Bot, you consent to the collection and use of this data in accordance with our Privacy Policy.
 
-3.2. The Operator will not sell or disclose your data to third parties without your consent.
+3.2. The Operator will not sell or disclose your data to third parties, except with your explicit consent.
 
 ## 4. Intellectual Property
 
 4.1. The Bot and all related content, including but not limited to code, text, graphics, and logos, are the property of the Operator or its licensors and are protected by copyright and other intellectual property laws.
 
-4.2. You may not modify, adapt, translate the Bot or any part thereof.
+4.2. You may not modify, adapt, translate the Bot or any part thereof, without granting such privileges from the Operator.
 
 ## 5. Limitation of Liability
 
