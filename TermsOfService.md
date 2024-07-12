@@ -34,7 +34,7 @@ These Terms of Service ("Terms") govern your use of the Discord Bot ("CyberBot")
 
 5.1. The Operator shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with your use of the Bot.
 
-5.2. The Bot is provided on an "as is" and "as available" basis, without any warranties of any kind, express or implied.
+5.2. The Bot is provided on an "as is" and "as available" basis, without any warranties of any kind, expressed or implied.
 
 ## 6. Changes to Terms
 
