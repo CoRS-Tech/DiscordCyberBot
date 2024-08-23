@@ -52,7 +52,7 @@ The Operator implements appropriate security measures to protect your data again
 
 ## 6. Children's Privacy
 
-The Bot is not directed to individuals under the age of 13, and we do not knowingly collect personal information from children under 13. If you are a parent or guardian and become aware that your child has provided us with personal information, please contact us to request deletion of that information.
+The Bot abides by the Discord Terms of Service, which plainly state that no one under the age of 13 should legally use any Discord services. The Bot does not knowingly store any data of any minor below this age. If you're a parent or a legal guardian and want to delete any data we have stored that is linked to your child's usage of this Bot, please refer to the hereinafter section to contact us.
 
 ## 7. Changes to This Privacy Policy
 
