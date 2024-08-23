@@ -1,4 +1,3 @@
-Terms of Service for Generic Discord Bot
 
 These Terms of Service ("Terms") govern your use of the Discord Bot ("CyberBot"), operated by [CoRoys] ("the Operator"). By using the Bot, you agree to these Terms. If you do not agree with any part of these Terms, you may cease to use this bot immediately by removing it from your Discord server.
 
